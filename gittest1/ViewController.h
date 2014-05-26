@@ -11,6 +11,8 @@
 @interface ViewController : UIViewController {
     //initial commit
     //map-feature branch added
+    /* blablabla merging attempt
+    */
 }
 
 @end
